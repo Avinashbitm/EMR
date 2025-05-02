@@ -1,0 +1,9 @@
+{
+	"name": "tt-healthProjectdev1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fdf42ef1-7baa-4895-8b6d-808b0cfddaa1",
+		"tenantId": "2268bbdd-a234-451d-92e8-c3201ff82557"
+	}
+}
