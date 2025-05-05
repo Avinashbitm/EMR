@@ -1,0 +1,9 @@
+{
+	"name": "tt-hc-adf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d73a607-b9dc-473c-8eda-be2dd25d3c15",
+		"tenantId": "2268bbdd-a234-451d-92e8-c3201ff82557"
+	}
+}
