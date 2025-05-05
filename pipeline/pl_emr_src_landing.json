@@ -64,7 +64,8 @@
 						"value": "@activity('lkp_emr_configs').output.value",
 						"type": "Expression"
 					},
-					"isSequential": true,
+					"isSequential": false,
+					"batchCount": 5,
 					"activities": [
 						{
 							"name": "If Condition1",
